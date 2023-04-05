@@ -675,7 +675,7 @@ export default {
 
         .volume-control {
           margin: 0 10px;
-          display: flex;
+          display: none;
           align-items: center;
           .volume-bar {
             width: 84px;
